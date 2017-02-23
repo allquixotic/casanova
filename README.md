@@ -5,8 +5,8 @@ Keeping track...
    
 |   | Code Name   | Start Date  | End Date    | Notes |
 |---|-------------|-------------|-------------|-------|
-|1 |regret        | 2003-04-01? | 2005-09-25? | *Due to irretrievable data loss, specific milestones no longer available. Technical specifications: Shape=cute;personality=loving;religion=catholicism;hobbies=reading,gaming;acquired=online. Fate: Shipped to NZ.*|
-|2 |idkfableach   | 2006-??     | 2007-10-30? | *Due to irretrievable data loss, specific milestones no longer available. Technical specifications: Shape=gorgeous;personality=aloof;religion=atheism;hobbies=anime,gaming;acquired=online. Fate: Probably drugs.*
+|1 |regret        | 2003-04-01? | 2005-09-25? | *Due to irretrievable data loss, specific milestones no longer available. Technical specifications: Shape=cute; personality=loving; religion=catholicism; hobbies=reading,gaming; acquired=online. Fate: Shipped to NZ.*|
+|2 |idkfableach   | 2006-??     | 2007-10-30? | *Due to irretrievable data loss, specific milestones no longer available. Technical specifications: Shape=gorgeous; personality=aloof; religion=atheism; hobbies=anime,gaming; acquired=online. Fate: Probably drugs.*
 |N/A |*(Sexual preference changed from `female` to `computing device`); Migrated from monoamorous to polyamorous*   | -     | - | -|
 |3 |vk4rms        | 2005-??     | 2007-??     | *Desktop; WinXP x64; Pentium 4 D; 1 GB of DDR2; 250GB HDD; Radeon 9800; Comcrap cable; often complimented me with the poem "Illegal operations are red, BSODs are blue"*|
 |4 |vk4rms(1)     | 2007-??     | 2009-??     | *Desktop; Vista x64; Core 2 Duo later upgraded to Quad; 4 GB of DDR2; 500GB HDD; Radeon X800; ADSL; had hot window decorations*|
