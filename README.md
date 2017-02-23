@@ -1,6 +1,6 @@
 # casanova  
-## *Keeping track...  *
-`Date format: YYYY-MM-DD`
+Keeping track... 
+<sup><sup>`Date format: YYYY-MM-DD`</sup></sup>
 --------------
    
 |   | Name        | Start Date  | End Date    | Notes |
