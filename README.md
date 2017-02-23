@@ -7,9 +7,7 @@ Keeping track...
 |---|-------------|-------------|-------------|-------|
 |1 |regret        | 2003-04-01? | 2005-09-25? | *Due to irretrievable data loss, specific milestones no longer available. Fate: Shipped to NZ.*|
 |2 |idkfableach   | 2006-??     | 2007-10-30? | *Due to irretrievable data loss, specific milestones no longer available. Fate: Probably drugs.*
--------------------------------------------------------- 
-*(Sexual preference changed from `female` to `computing device`)*
-*Migrated from monoamorous to polyamorous*
+|N/A |*(Sexual preference changed from `female` to `computing device`); Migrated from monoamorous to polyamorous*   | -     | - | -|
 |3 |vk4rms        | 2005-??     | 2007-??     | *Desktop; WinXP x64; Pentium 4 D; 1 GB of DDR2; 250GB HDD; Radeon 9800; Comcrap cable; often complimented me with the poem "Illegal operations are red, BSODs are blue"*|
 |4 |vk4rms(1)     | 2007-??     | 2009-??     | *Desktop; Vista x64; Core 2 Duo later upgraded to Quad; 4 GB of DDR2; 500GB HDD; Radeon X800; ADSL; had hot window decorations*|
 |5 |vk6rms        | 2006-??     | 2008-??     | *ThinkPad X60; Vista x64/many Linuxen; Core 2 Duo; 2 GB of DDR2; 180GB HDD; integrated graphics; ADSL/EvDO; often ran broken Linuxen in dual boot that used a lot of power due to no power optimizations; hacker laptop 1*|
